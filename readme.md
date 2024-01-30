@@ -11,3 +11,10 @@ is only available from another source
 
 E: Package 'python2' has no installation candidate
 ```
+
+Installation Tutorial:
+```bash
+apt install wget
+wget https://github.com/Shoukaku07/python2-installer/blob/main/installer.sh
+bash installer.sh
+```
